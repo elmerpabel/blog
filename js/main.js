@@ -1,6 +1,6 @@
 const app = function () {
-	const API_BASE = 'https://script.google.com/macros/s/AKfycbyP5Rifn7Q05Qcd7CTfm-AOouFHHvUAvCVVuKSfQu-LCqJocP8/exec';
-	const API_KEY = 'abcdef';
+	const API_BASE = 'https://script.google.com/macros/s/AKfycbxQmc2X3hMlaKQvKWi7qe0eDML8j76jnEnGD4_bpuNot7Hmj9hP/exec';
+	const API_KEY = 'blog';
 	const CATEGORIES = ['general', 'financial', 'technology', 'marketing'];
 
 	const state = {activePage: 1, activeCategory: null};
