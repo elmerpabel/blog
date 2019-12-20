@@ -1,7 +1,7 @@
 const app = function () {
 	const API_BASE = 'https://script.google.com/macros/s/AKfycbxQmc2X3hMlaKQvKWi7qe0eDML8j76jnEnGD4_bpuNot7Hmj9hP/exec';
 	const API_KEY = 'blog';
-	const CATEGORIES = ['general', 'financial', 'technology', 'marketing'];
+	const CATEGORIES = ['general', 'financial', 'technology', 'PreEncuentro'];
 
 	const state = {activePage: 1, activeCategory: null};
 	const page = {};
